@@ -2,6 +2,8 @@
  
 It is an Android app to Login and then Create,Update and Display a SQLite Database
 
+To watch a demo check out this video: https://youtube.com/shorts/reeOA2WGybg?feature=share
+
 ![image](https://user-images.githubusercontent.com/65004578/199413218-bde9086f-6525-4084-83c1-f9517d0c8b1f.png)
 
 ![image](https://user-images.githubusercontent.com/65004578/199413232-aafc1f26-aaaa-42d3-aa98-4b42e221d77d.png)
